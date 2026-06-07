@@ -1,0 +1,6 @@
+{
+  "name": "Career Roadmap Generator",
+  "description": "Generate a personalized career roadmap based on your CGPA, key skills, and a target job description.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
